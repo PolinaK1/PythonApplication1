@@ -13,3 +13,4 @@ deploy:
     repo: PolinaK1/PythonApplication1
     branch: main
     tags: false
+    
