@@ -1,3 +1,7 @@
-import:
-- source: .travis/default.yml
-if: branch = dev
+language: python
+puthon: 3.8
+script: 
+  - cd PythonApplication1 
+  - pytest
+  - cd ..
+
